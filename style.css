@@ -182,7 +182,7 @@ body {
     .content {
         flex-direction: column;
     }
-
+    
     .left, .right {
         width: 100%;
     }
@@ -214,9 +214,10 @@ body {
 
     }
 
-
-
-
+    .right img{
+        width: 100%;
+        height: 50em;
+    }
 
 }
 
